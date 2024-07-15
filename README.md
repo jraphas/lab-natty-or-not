@@ -13,7 +13,7 @@ Foi utilizado o ChatGPT para realizar um prompt único (One-Shot) com quatro tó
 ## 🚀 Resultados
 A imagem representando o painel da festa de aniversário foi satisfatório, trazendo elementos principais apontados nos tópicos de descrição.
 
-LINK
+[LINK_IMAGEM](https://github.com/jraphas/lab-natty-or-not/blob/painel_festa/painel_festa/painel_festa.jpeg)
 
 ## 💭 Reflexão (Opcional)
 Essa "comunicação" entre as IAs só evidencia o potencial da combinação entre suas propriedades e características, possibilitando uma cadeia de entrada e saída entre diferentes IAs.
