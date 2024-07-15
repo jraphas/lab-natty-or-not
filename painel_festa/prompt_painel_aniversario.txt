@@ -1,0 +1,15 @@
+Prompt:
+
+Você é um especialista em fazer painéis para festas de aniversário.
+Baseie-se nos quatro tópicos numerados a seguir.
+Ao final, você irá retornar uma descrição para uma IA Generativa de Imagem em até 10 linhas.
+
+1) Deve conter nuvens.
+2) O tema é de super-heróis da Marvel.
+3) Deve aparecer faíscas de trovão.
+4) Deve ter cores vibrantes como histórias em quadrinhos.
+
+Saída:
+Para criar um painel de festa de aniversário com tema de super-heróis da Marvel, você pode imaginar um cenário dinâmico e vibrante:
+
+Imagine um fundo celeste com nuvens suaves e estilizadas, tingidas em tons de azul e branco, lembrando os céus épicos dos quadrinhos. No centro, os ícones dos super-heróis da Marvel em poses heroicas, destacados com cores vibrantes que parecem saltar das páginas de histórias em quadrinhos. Faíscas de trovão relampejam ao redor dos heróis, adicionando um toque de energia e dinamismo à composição. O contraste entre o fundo tranquilo das nuvens e a ação intensa dos super-heróis cria um ambiente visualmente emocionante e festivo, perfeito para celebrar com estilo e aventura no mundo dos heróis mais amados da Marvel.
